@@ -1,5 +1,5 @@
 # OS-Sus-IDs
-If an individual reports to OpenSea that they got their asset stolen, they mark it as stolen/suspicious and lock it on their website from trading. 
+If an individual reports to OpenSea their was asset stolen, Opensea marks it as stolen/suspicious and lock it on their website from trading. 
 Additionally, OpenSea doesn't provide any public data on assets they *questionably* mark as stolen.
 Top NFT collections have taken a hard hit in regards to properly dealing with scams in a decentralized manner:
 
